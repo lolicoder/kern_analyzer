@@ -1,0 +1,10 @@
+*.db
+*.py[cod]
+.web
+__pycache__/
+assets/external/
+*.pth
+*.dll
+*.lib
+.venv/
+*.so
